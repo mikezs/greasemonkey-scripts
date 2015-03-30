@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pistonheads Ad Hider
 // @namespace    http://mbignell.com/
-// @version      0.1
+// @version      0.2
 // @description  Hide advertisements on pistonheads.com
 // @author       You
 // @match        http://www.pistonheads.com/gassing/topic.asp?*
